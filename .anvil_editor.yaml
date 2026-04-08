@@ -3,7 +3,11 @@ unique_ids:
     standard-page.html: V3NEFJNJ7S2PVD4RRDLYZMCCC7UNSNR3
     theme.css: UEIM4UWH6WIGLHICRE2MD2OVKH5IBLJQ
   forms:
-    Form1: VFK6QYXD3HF3PBGFDF6U7P7RAI5F2U3S
+    Anmeldungen: '1775638728881664409636555.1647'
+    Anmeldungen.RowTemplate2: '17756387594338718652142.004402'
+    Startseite: VFK6QYXD3HF3PBGFDF6U7P7RAI5F2U3S
+    Startseite.RowTemplate1: '1775637931503722742943055.5155'
   modules: {}
   scripts: {}
-  server_modules: {}
+  server_modules:
+    backend: '1775637937451565227849715.9753'

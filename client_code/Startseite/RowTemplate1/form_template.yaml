@@ -1,0 +1,10 @@
+components:
+- event_bindings: {}
+  layout_properties: {column: SWPRNW}
+  name: Anmelden
+  properties:
+    text: |
+      Anmelden
+  type: Button
+container: {type: DataRowPanel}
+is_package: true
